@@ -1,6 +1,6 @@
 # e-commerce-backend
 # Description
-This application will allow the user to view and manage the departments, roles, and employees in their company 
+This application will allow the user to create, read, update, and delete data for an e-commerce store
 -----------------------------
 ## Table of Contents
 
